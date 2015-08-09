@@ -19,7 +19,7 @@ import org.apache.hadoop.mapred.TextInputFormat;
 import org.apache.hadoop.mapred.TextOutputFormat;
 /**
  * 
- * 描述：WordCount explains by Felix
+ * 描述：WordCount   explains by Felix
  * @author Hadoop Dev Group
  */
 public class WordCount
